@@ -50,3 +50,7 @@ transition: 0.2s;
     border: none;
 }
 
+.explore-menu-list-item img.active{
+    border: 2px solid tomato;
+    padding: 2px;
+}
